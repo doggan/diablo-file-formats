@@ -1,2 +1,2 @@
-diablo-file-format
+diablo-file-formats
 ==================
