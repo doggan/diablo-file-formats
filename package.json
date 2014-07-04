@@ -1,0 +1,26 @@
+{
+  "name": "diablo-file-format",
+  "version": "0.0.0",
+  "description": "Parsing of Diablo 1 file formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "diablo",
+    "file format"
+  ],
+  "homepage": "https://github.com/doggan/diablo-file-format",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doggan/diablo-file-format.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doggan/diablo-file-format/issues"
+  },
+  "author": {
+    "name": "Shyam Guthikonda",
+    "url": "http://shy.am"
+  },
+  "license": "MIT"
+}
