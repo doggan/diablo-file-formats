@@ -37,3 +37,6 @@ fs.readFile(path, function read(err, buffer) {
 
 ## Protip
 Use along with MPQ readers like [mech-mpq](https://www.npmjs.org/package/mech-mpq) or [mpq-server](https://www.npmjs.org/package/mpq-server) to dynamically extract and parse the MPQ archive (without having to pre-extract the contents).
+
+## Acknowledgments
+Special thanks to @mewmew for the [blizzconv](https://github.com/mewrnd/blizzconv) project, which served as an invaluable reference.
