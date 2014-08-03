@@ -22,5 +22,9 @@
     "name": "Shyam Guthikonda",
     "url": "http://shy.am"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "jshintConfig": {
+    "node": true,
+    "unused": true
+  }
 }
