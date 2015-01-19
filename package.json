@@ -1,6 +1,6 @@
 {
   "name": "diablo-file-formats",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parsing of Diablo 1 file formats.",
   "main": "index.js",
   "scripts": {
